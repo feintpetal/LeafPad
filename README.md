@@ -15,7 +15,7 @@ Made with Fusion
 
 ### Schematic: <img width="608" height="398" alt="image" src="https://github.com/user-attachments/assets/322e8366-eaeb-43f6-9a82-589ecfafadf5" />
 
-### PCB: **<img width="332" height="527" alt="image" src="https://github.com/user-attachments/assets/b1b0e775-a209-4770-a084-fb690ab88a55" />
+### PCB: <img width="332" height="527" alt="image" src="https://github.com/user-attachments/assets/b1b0e775-a209-4770-a084-fb690ab88a55" />
 ---------------------------------------------------------------------------------------------
 ## Firmware:
 This hackpad uses [KMK](github.com/KMKfw/kmk_firmware/) for everything
