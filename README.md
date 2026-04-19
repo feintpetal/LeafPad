@@ -3,7 +3,7 @@ The LeafPad is a 11 key macropad with a rotary encoder, an OLED Display and uses
 ---------------------------------------------------------------------------------------------
 ## Features:
 - 11 keys for macros
-- One rotary encoder for volume controll
+- One rotary encoder for volume control
 - An oled screen for bongo cat (Cuz y not)
 ---------------------------------------------------------------------------------------------
 ## CAD Model:
